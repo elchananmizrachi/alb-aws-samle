@@ -1,0 +1,5 @@
+
+This repo atendend to exercise a simple deployment of:
+
+1.	Runing N basic web-serves that serves a single static page, each responding with the server number: Hello from web-server {1.. N}.
+2.	Runing a load-balancer in front of the web-servers that performs round-robin load balancing. 
